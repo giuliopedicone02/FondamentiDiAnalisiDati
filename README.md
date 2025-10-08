@@ -6,6 +6,7 @@ Repository creata a scopo didattico per essere utilizzata come backup dei file c
 
 
 - **Cartella Lezioni**: Comprende gli appunti presi durante il corso (Potrebbero non essere corretti o presentare errori)
+- **Cartella Notebook**: Contiene i notebook Jupyter forniti dal docente dutante il corso
 - **Cartella Slides**: Comprende le slides ufficiali del corso fornite dal docente a lezione
 
 ## Authors
